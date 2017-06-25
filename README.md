@@ -1,9 +1,9 @@
 search-engine REST service
 =====================
 
-- [Configuration] (# Configuration)
-- [Installation] (# Install)
-- [Run] (# Run)
+- [Configuration] (#configuration)
+- [Installation] (#install)
+- [Run] (#run)
 
 # Configuration
 At ./server/src/main/resources folder there is application.properties file.
